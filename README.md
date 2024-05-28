@@ -1,6 +1,7 @@
 ### Greetings
 
 [Portfolio](https://nomercoli.github.io/)
+
 [Another Github account used in high school](https://github.com/BroYee)
 <!--
 **NomerColi/NomerColi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
